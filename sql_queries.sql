@@ -8,7 +8,8 @@ SELECT SPORT,
        ROUND(SUM(Endurance + Strength + Power + Speed + Agility + Flexibility + Nerve + Durability + `Hand-eye coordination` + `Analytical Aptitude`), 2) AS total_skill
 FROM sporttypes
 GROUP BY SPORT 
-ORDER BY total_skill DESC;
+ORDER BY total_skill DESC
+LIMIT 20;
 
 -- == skilloverview triathlon related - cycling, swimming, running -> distance
 SELECT *
