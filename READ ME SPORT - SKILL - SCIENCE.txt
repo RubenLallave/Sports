@@ -1,0 +1,38 @@
+READ ME SPORT - SKILL - SCIENCE
+
+- Dataframes load and read in python 	-> Sports project.ipynb
+	Two datasets
+	- Sports&Skills.csv		-> toughestsport
+	- Supplements.csv		-> Sports Supplements
+
+- SQL databas with tables 		-> sport_skill_supplements
+- SQL queries (Basic)			-> sql_queries
+- SQL queries for Triathlon 1		-> querie_triathlon_short_middle
+- SQL queries for Triathlon 2		-> querie_triathlon_middle_long
+- SQL queries for skills		-> Skills_min_max_for_supplements
+- SQL queries for Supplements		-> top_recommended_supplements
+ 
+
+- Some CSV files for loading in python	-> top5_supplements_not_repeated, top5_supplements, top_20_sports, skills_total_value 
+- Using Matplotlib for visualization	-> Matplot.ipynb
+
+
+
+Wir haben 60 Sportarten die auf 10 Skills analysiert wurden ausgewertet und für Triathlon eine neue Sportart hinzugefügt
+- Ranking der Sportarten nach Skills (ohne Multisport)
+- Ranking der wichtigsten Skills im Sport ohne Bezug zu Sportarten (als Auswertung aus den 60 Sportarten)
+- Analyse der wichtigsten Supplements im Sport mit Bezug zu den wichtigsten Fähigkeiten im Sport und im speziellen zu Triathlon
+
+Short-Explenation of the skills
+ENDURANCE: The ability to continue to perform a skill or action for long periods of time. Example: Lance Armstrong
+STRENGTH: The ability to produce force. Example: NFL linebackers.
+POWER: The ability to produce strength in the shortest possible time. Example: Barry Bonds.
+SPEED: The ability to move quickly. Example: Marion Jones, Maurice Green.
+AGILITY: The ability to change direction quickly. Example: Derek Jeter, Mia Hamm.
+FLEXIBILITY: The ability to stretch the joints across a large range of motion. Example: Gymnasts, divers.
+NERVE: The ability to overcome fear. Example: High-board divers, race-car drivers, ski jumpers.
+DURABILITY: The ability to withstand physical punishment over a long period of time. Example: NBA/NHL players.
+HAND-EYE COORDINATION: The ability to react quickly to sensory perception. Example: A hitter reacting to a 
+breaking pitch; a drag racer timing acceleration to the green light.
+ANALYTIC APTITUDE: The ability to evaluate and react appropriately to strategic situations. Example: Joe Montana reading a defense; basketball point guard on a fast break.
+
