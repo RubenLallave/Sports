@@ -1,5 +1,6 @@
 -- We import a transposed table from skills dataset and get the min, max, sum and avg values from every sport we want to study.
 USE sports;
+
 SELECT 
     'Cycling: Distance' AS `index`,
     MIN(`Cycling: Distance`) AS `MIN values`,

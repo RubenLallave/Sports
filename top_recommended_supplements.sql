@@ -1,8 +1,5 @@
 USE sports;
 
-SELECT * FROM supplements;
-
-
 -- from table supplements -- extracting data for swimming, running, cycling AND skill --> LIKE/WHERE
 SELECT supplement, evidence_level_score, `Claimed improved aspect of fitness`, `fitness category`, `sport or exercise type tested`, popularity
 FROM supplements
